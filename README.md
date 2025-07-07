@@ -5,11 +5,6 @@
 </div>
 
 ![Screenshot_1](https://github.com/user-attachments/assets/0350e649-9f2b-4775-b06b-5fe36c073317)
-![Screenshot_2](https://github.com/user-attachments/assets/46cbdb60-4f40-422c-b7a7-df9cad2e52f3)
-![Screenshot_3](https://github.com/user-attachments/assets/19e144df-4d6f-4d2f-b0b5-b59326f8b2ac)
-![Screenshot_4](https://github.com/user-attachments/assets/d9e75e41-21a4-4c1c-afee-4c4070247a80)
-![Screenshot_5](https://github.com/user-attachments/assets/3efe0723-3d18-446b-908e-ebdcbba185f0)
-
 
 ## 🎯 Visão Geral
 
