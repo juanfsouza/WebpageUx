@@ -10,22 +10,6 @@
 ![Screenshot_4](https://github.com/user-attachments/assets/d9e75e41-21a4-4c1c-afee-4c4070247a80)
 ![Screenshot_5](https://github.com/user-attachments/assets/3efe0723-3d18-446b-908e-ebdcbba185f0)
 
-## 📋 Índice
-
-1. [Visão Geral](#visão-geral)
-2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-3. [Estrutura do Projeto](#estrutura-do-projeto)
-4. [Configuração e Instalação](#configuração-e-instalação)
-5. [Arquitetura da Aplicação](#arquitetura-da-aplicação)
-6. [Componentes](#componentes)
-7. [Estilos e Design System](#estilos-e-design-system)
-8. [Animações e Efeitos](#animações-e-efeitos)
-9. [Responsividade](#responsividade)
-10. [Performance](#performance)
-11. [Scripts Disponíveis](#scripts-disponíveis)
-12. [Deploy](#deploy)
-
----
 
 ## 🎯 Visão Geral
 
